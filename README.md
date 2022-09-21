@@ -1,5 +1,8 @@
 # Hive Movies Analysis Work Flow
 
+
+![Hive Movies Analysis Work Flow](https://user-images.githubusercontent.com/67195682/191599709-8e56716d-08c3-45d0-ad19-97ee662190ef.png)
+
 ### TOOLS USED
 ```
 HADOOP 2.9.1
